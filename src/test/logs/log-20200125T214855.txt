@@ -1,0 +1,5 @@
+2020-01-25 21:49:00,109 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Dance'}]
+2020-01-25 21:50:28,355 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-25 21:50:28,363 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Song'}]
+2020-01-25 21:51:03,997 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-25 21:51:03,999 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Opera'}]

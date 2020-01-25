@@ -1,0 +1,16 @@
+2020-01-25 22:12:45,227 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test openWikipediaTest with parameters[]
+2020-01-25 22:13:27,122 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test openWikipediaTest
+2020-01-25 22:13:27,138 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Dance'}]
+2020-01-25 22:14:02,978 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-25 22:14:02,982 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Song'}]
+2020-01-25 22:14:38,692 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-25 22:14:38,696 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Opera'}]
+2020-01-25 22:15:12,792 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-25 22:15:12,802 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[Deep Purple]
+2020-01-25 22:15:47,032 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-25 22:15:47,035 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[ZZ Top]
+2020-01-25 22:16:22,829 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-25 22:16:22,831 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[The Beatles]
+2020-01-25 22:16:56,012 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-25 22:16:56,018 INFO [main] c.w.k.t.TestBase [TestBase.java:21] Start test testClearWatchlist with parameters[]
+2020-01-25 22:17:19,130 INFO [main] c.w.k.t.TestBase [TestBase.java:26] Stop test testClearWatchlist

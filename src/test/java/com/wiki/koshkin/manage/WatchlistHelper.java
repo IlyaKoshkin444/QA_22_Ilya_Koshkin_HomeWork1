@@ -9,22 +9,12 @@ public class WatchlistHelper  extends HelperBase{
         super(wd);
     }
 
-    public void createEditViewWatchlist() throws InterruptedException {
-        clickWatchList();
-        clickEditWatchList();
-        clickEditRowWatchList();
-        inputCreateWatchlistTitle(new WatchlistData("Dance" +"\n"+"Song"));
-        clickViewAndEditWatchList();
-    }
+
 
     public void clickViewAndEditWatchList() throws InterruptedException {
         clickWatchList();
         clickEditWatchList();
-        click(By.cssSelector("[href='/wiki/Dance']"));
-        pause(5000);
-        clickWatchList();
-        clickEditWatchList();
-        click(By.cssSelector("[href='/wiki/Song']"));
+        click(By.xpath("//div[@class='oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed']//div[@class='oo-ui-fieldLayout-field']//label[1]"));
         pause(5000);
 
     }
@@ -63,4 +53,6 @@ public class WatchlistHelper  extends HelperBase{
         clickEditWatchList();
         clickClearWatchList();
     }
+
+
 }
