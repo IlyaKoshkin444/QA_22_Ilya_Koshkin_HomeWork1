@@ -7,8 +7,6 @@ public class LoginWiki extends TestBase {
 
     @Test
     public void openWikipediaTest() throws InterruptedException {
-        openSite("https://www.wikipedia.org");
-        pause();
         selectLangEN();
         pause();
         initlogin();

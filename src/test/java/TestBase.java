@@ -15,7 +15,7 @@ public class TestBase {
     WebDriver wd;
 
     @BeforeSuite
-    public void setUp() {
+    public void setUp() throws InterruptedException {
         String browser =
                 System.getProperty("browser", BrowserType.CHROME);
         if (browser.equals(BrowserType.CHROME)) {
@@ -26,9 +26,9 @@ public class TestBase {
             wd = new SafariDriver();
         }
 
-        wd = new ChromeDriver();
         wd.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
-
+        openSite("https://www.wikipedia.org");
+        pause();
 
 
     }
