@@ -1,0 +1,13 @@
+2020-01-29 20:33:34,999 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test openWikipediaTest with parameters[]
+2020-01-29 20:33:35,007 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.xpath: //li[@id='pt-notifications-alert']
+2020-01-29 20:33:50,050 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: js-link-box-en
+2020-01-29 20:33:56,901 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: pt-login
+2020-01-29 20:34:04,305 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: wpName1
+2020-01-29 20:34:04,356 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: wpName1
+2020-01-29 20:34:04,390 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: wpName1
+2020-01-29 20:34:04,510 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: wpPassword1
+2020-01-29 20:34:04,581 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: wpPassword1
+2020-01-29 20:34:04,633 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: wpPassword1
+2020-01-29 20:34:09,702 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.id: wpLoginAttempt
+2020-01-29 20:34:21,412 INFO [Test worker] c.w.k.m.ApplicationManager$MyListener [ApplicationManager.java:29] Search element By.xpath: //li[@id='pt-notifications-alert']
+2020-01-29 20:34:21,434 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test openWikipediaTest

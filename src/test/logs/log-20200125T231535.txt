@@ -1,0 +1,6 @@
+2020-01-25 23:15:38,534 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[ABBA]
+2020-01-25 23:16:56,836 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-25 23:16:56,840 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[ZZ Top]
+2020-01-25 23:17:33,141 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-25 23:17:33,146 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[Beatles]
+2020-01-25 23:18:07,632 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP

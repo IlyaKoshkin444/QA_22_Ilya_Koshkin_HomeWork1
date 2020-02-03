@@ -1,0 +1,2 @@
+2020-01-29 20:05:11,885 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test openWikipediaTest with parameters[]
+2020-01-29 20:06:00,764 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test openWikipediaTest

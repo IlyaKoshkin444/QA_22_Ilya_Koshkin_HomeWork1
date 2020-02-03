@@ -13,9 +13,9 @@ public class DataProviders {
     @DataProvider
     public Iterator<Object[]> validWatchlist() {
         List<Object[]> list = new ArrayList<>();
-        list.add(new Object[]{"Deep Purple"});
+        list.add(new Object[]{"ABBA"});
         list.add(new Object[]{"ZZ Top"});
-        list.add(new Object[]{"The Beatles"});
+        list.add(new Object[]{"Beatles"});
         return list.iterator();
     }
 

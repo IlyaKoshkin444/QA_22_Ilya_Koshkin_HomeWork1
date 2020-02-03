@@ -1,0 +1,4 @@
+2020-01-26 08:11:32,466 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test openWikipediaTest with parameters[]
+2020-01-26 08:11:58,115 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test openWikipediaTest
+2020-01-26 08:11:58,126 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Dance'}]
+2020-01-26 08:11:58,157 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testClearWatchlist with parameters[]

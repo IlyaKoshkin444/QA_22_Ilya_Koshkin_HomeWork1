@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wiki.koshkin.test.LoginWiki" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-26T06:12:45" hostname="MBP-MacBook" time="29.344">
+  <properties/>
+  <testcase name="openWikipediaTest" classname="com.wiki.koshkin.test.LoginWiki" time="29.344"/>
+  <system-out><![CDATA[08:12:30.306 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test openWikipediaTest with parameters[]
+08:13:14.718 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test openWikipediaTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

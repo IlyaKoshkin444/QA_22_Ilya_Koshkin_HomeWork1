@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wiki.koshkin.test.CreateWatchlistTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-01-26T06:13:14" hostname="MBP-MacBook" time="208.773">
+  <properties/>
+  <testcase name="testCreateWatchlistCSV[0](WatchlistData{watchlistName='Dance'})" classname="com.wiki.koshkin.test.CreateWatchlistTest" time="36.406"/>
+  <testcase name="testCreateWatchlistCSV[1](WatchlistData{watchlistName='Song'})" classname="com.wiki.koshkin.test.CreateWatchlistTest" time="34.029"/>
+  <testcase name="testCreateWatchlistCSV[2](WatchlistData{watchlistName='Opera'})" classname="com.wiki.koshkin.test.CreateWatchlistTest" time="34.693"/>
+  <testcase name="testCreateWatchlistDP[0](ABBA)" classname="com.wiki.koshkin.test.CreateWatchlistTest" time="33.755"/>
+  <testcase name="testCreateWatchlistDP[1](ZZ Top)" classname="com.wiki.koshkin.test.CreateWatchlistTest" time="34.02"/>
+  <testcase name="testCreateWatchlistDP[2](Beatles)" classname="com.wiki.koshkin.test.CreateWatchlistTest" time="35.762"/>
+  <system-out><![CDATA[08:13:14.728 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Dance'}]
+08:13:51.151 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test testCreateWatchlistCSV
+08:13:51.153 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Song'}]
+08:14:25.201 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test testCreateWatchlistCSV
+08:14:25.204 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Opera'}]
+08:14:59.914 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test testCreateWatchlistCSV
+08:14:59.917 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test testCreateWatchlistDP with parameters[ABBA]
+08:15:33.695 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test testCreateWatchlistDP
+08:15:33.698 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test testCreateWatchlistDP with parameters[ZZ Top]
+08:16:07.734 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test testCreateWatchlistDP
+08:16:07.735 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test testCreateWatchlistDP with parameters[Beatles]
+08:16:43.517 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test testCreateWatchlistDP
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

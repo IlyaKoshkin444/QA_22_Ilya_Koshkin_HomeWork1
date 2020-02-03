@@ -1,0 +1,16 @@
+2020-01-26 08:12:30,306 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test openWikipediaTest with parameters[]
+2020-01-26 08:13:14,718 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test openWikipediaTest
+2020-01-26 08:13:14,728 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Dance'}]
+2020-01-26 08:13:51,151 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-26 08:13:51,153 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Song'}]
+2020-01-26 08:14:25,201 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-26 08:14:25,204 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistCSV with parameters[WatchlistData{watchlistName='Opera'}]
+2020-01-26 08:14:59,914 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistCSV
+2020-01-26 08:14:59,917 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[ABBA]
+2020-01-26 08:15:33,695 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-26 08:15:33,698 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[ZZ Top]
+2020-01-26 08:16:07,734 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-26 08:16:07,735 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testCreateWatchlistDP with parameters[Beatles]
+2020-01-26 08:16:43,517 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testCreateWatchlistDP
+2020-01-26 08:16:43,520 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:21] Start test testClearWatchlist with parameters[]
+2020-01-26 08:17:07,190 INFO [Test worker] c.w.k.t.TestBase [TestBase.java:26] Stop test testClearWatchlist
