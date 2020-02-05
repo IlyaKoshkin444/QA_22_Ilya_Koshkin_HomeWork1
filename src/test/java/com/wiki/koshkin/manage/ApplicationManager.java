@@ -56,6 +56,7 @@ public class ApplicationManager  {
             wd = new EventFiringWebDriver(new SafariDriver());
         }
 
+        
         wd.register(new MyListener());
         wd.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
         openSite("https://www.wikipedia.org");

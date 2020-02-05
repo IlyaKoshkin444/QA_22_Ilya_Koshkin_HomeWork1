@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wiki.koshkin.test.ClearWatchlistTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-26T06:16:43" hostname="MBP-MacBook" time="23.652">
-  <properties/>
-  <testcase name="testClearWatchlist" classname="com.wiki.koshkin.test.ClearWatchlistTest" time="23.652"/>
-  <system-out><![CDATA[08:16:43.520 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Start test testClearWatchlist with parameters[]
-08:17:07.190 [Test worker] INFO  com.wiki.koshkin.test.TestBase - Stop test testClearWatchlist
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
